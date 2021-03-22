@@ -1,8 +1,8 @@
-Origin: Nx0cv
-Label: Nx0cv
+Origin: nx0cv
+Label: nx0cv
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Nx0cv Repo
+Description: nx0cv Repo
